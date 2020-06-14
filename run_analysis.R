@@ -121,3 +121,5 @@ ActivityTidyData <- humanActivity %>% group_by(subject, activity) %>%  summarise
 # New output file "Activity_tidy_data.txt"
 write.table(ActivityTidyData, "Activity_tidy_data.txt", row.names = FALSE, 
             quote = FALSE)
+
+###End of code
