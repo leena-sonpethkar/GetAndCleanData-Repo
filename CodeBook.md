@@ -1,3 +1,4 @@
+#CodeBook.md
 This is a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data to get Activity_tidy_data.txt
 
 ####Activity_tidy_data.txt
